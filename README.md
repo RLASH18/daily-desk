@@ -1,20 +1,20 @@
-# 🗂️ DailyDesk
+# DailyDesk
 
 DailyDesk is a personal productivity web app built using PHP and Bootstrap. It is designed to work offline and provides essential tools to help users organize their daily life efficiently.
 
 ---
 
-## 📌 Features
+## Features
 
-- **🏠 Dashboard** – Overview of daily tasks and reminders.
-- **✅ To-Do List** – Create, edit, and track your tasks.
-- **📝 Journal Notes** – Save personal thoughts, reflections, or notes, with the ability to upload images.
-- **💰 Budget Tracker** – Log and monitor income and expenses.
-- **⚙️ Profile Settings** – Manage user details, including username, password, and profile picture.
+- **Dashboard** – Overview of daily tasks and reminders.
+- **To-Do List** – Create, edit, and track your tasks.
+- **Journal Notes** – Save personal thoughts, reflections, or notes, with the ability to upload images.
+- **Budget Tracker** – Log and monitor income and expenses.
+- **Profile Settings** – Manage user details, including username, password, and profile picture.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Bootstrap 5, HTML, CSS, JavaScript
 - **Backend**: PHP
@@ -22,7 +22,7 @@ DailyDesk is a personal productivity web app built using PHP and Bootstrap. It i
 
 ---
 
-## 💾 Installation
+## Installation
 
 1. Clone the Repository:
    ```bash
@@ -36,7 +36,7 @@ DailyDesk is a personal productivity web app built using PHP and Bootstrap. It i
 
 ---
 
-## 🧱 Database Structure
+## Database Structure
 
 **Main Tables:**
 
@@ -50,6 +50,6 @@ DailyDesk is a personal productivity web app built using PHP and Bootstrap. It i
 
 ---
 
-## 👤 Author
+## Author
 
 **Rookie Developer Ryan ✨**
